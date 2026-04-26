@@ -6,13 +6,13 @@ Bhakti content gathered from multiple sources and used in the app for spiritual 
 
 | Category | Folder | Description |
 |----------|--------|-------------|
-| 🪔 Aarti | `aarti/` | Short devotional songs sung during worship to offer light and reverence to the deity. |
+| 🪔 Aarti | `arti/` | Short devotional songs sung during worship to offer light and reverence to the deity. |
 | 📜 Chalisa | `chalisa/` | Forty-verse hymns that praise and seek blessings from various deities. |
 | 🕉️ Stotra | `stotra/` | Sanskrit verses and prayers that glorify divine forms and guide inner reflection. |
-| 📖 Gita | `scriptures/gita/` | The ultimate guidance from Lord Krishna to every human being on how to live, act, and attain liberation. |
-| 🧭 Prashnavali | `scriptures/prashnavali/` | A divine medium to ask GOD whether your action or decision is right or not. |
+| 📖 Sacred Books | `sacred books/` | A collection of divine scriptures including the Bhagavad Gita, Mahabharata, Ramayana, and Vedas. |
+| 🚩 Ramcharitmanas | `ramcharitmanas/` | The epic poem by Tulsidas, including the Sunderkand audio parts. |
+| 🧭 Prashnavali | `prashnamala/` | A divine medium to ask GOD whether your action or decision is right or not. |
 | 🖼️ Images | `images/` | Web-optimized images used across the Adiguru platform. |
-| 📁 Metadata | `metadata/` | JSON files that describe and organize the content by category, enabling dynamic rendering in the app. |
 
 ## 🧠 Usage
 
@@ -20,6 +20,8 @@ Bhakti content gathered from multiple sources and used in the app for spiritual 
 - **Strictly prohibited for commercial use.**
 
 ## 🔖 License
+
+**this is not software this is adhaytmic data**
 
 MIT License
 
