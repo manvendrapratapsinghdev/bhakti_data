@@ -20,7 +20,9 @@ Bhakti content gathered from multiple sources and used in the app for spiritual 
 - **Strictly prohibited for commercial use.**
 
 ## 🔖 License
+
 MIT License
+
 ---
 
 **Jay Bajrang Bali 🙏**
