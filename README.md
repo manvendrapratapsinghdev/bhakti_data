@@ -20,12 +20,7 @@ Bhakti content gathered from multiple sources and used in the app for spiritual 
 - **Strictly prohibited for commercial use.**
 
 ## 🔖 License
-
-**this is not software this is adhaytmic data**
-
 MIT License
-
-Copyright (c) 2026 Manvendra
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this adhaytmic data and associated documentation files (the "Data"), to deal
@@ -46,7 +41,6 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 DATA.
 
 ---
-
-**this is not software this is adhaytmic data**
+Copyright (c) 2026 Manvendra
 
 **Jay Bajrang Bali 🙏**
